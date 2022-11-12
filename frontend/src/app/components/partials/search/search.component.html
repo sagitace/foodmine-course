@@ -1,0 +1,4 @@
+<div>
+    <input #s type="text" placeholder="Search TAPBox Product!" (keyup.enter)="search(s.value)" [value]="searchTerm" />
+    <button (click)="search(s.value)"><img src="https://img.icons8.com/metro/16/null/search.png"/></button>
+</div>
