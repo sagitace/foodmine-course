@@ -8,8 +8,8 @@ ul {
 }
 
 li a {
-    height: 22.5rem;
-    width: 20rem;
+    height: 15rem;
+    width: 12rem;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
     border-radius: 1rem;
     margin: 0.5rem;
@@ -26,7 +26,7 @@ li a:hover {
 
 li a img {
     object-fit: cover;
-    height: 14.5rem;
+    height: 7rem;
 }
 
 .content {
@@ -74,8 +74,7 @@ li a img {
 }
 
 .cook-time {
-    font-size: 0.9rem;
-    flex: 3;
+    font-size: 0.6rem;
     text-align: right;
 }
 
